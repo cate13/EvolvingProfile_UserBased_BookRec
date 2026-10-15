@@ -1,0 +1,4 @@
+emotion_type,use_bilinear_pool,min_profile_size,max_profile_size,mrr_n,mrr_p_val,P@1_n,P@1_p_val,P@3_n,P@3_p_val,P@5_n,P@5_p_val,Spearman_n,Spearman_p_val,NDCG_2_n,NDCG_2_p_val,NDCG_3_n,NDCG_3_p_val,NDCG_5_n,NDCG_5_p_val,NDCG_10_n,NDCG_10_p_val
+nrc_eil,False,2,30,931,0.48186,931,0.38919,921,0.43152,915,0.30423,917,0.69261,926,0.71212,921,0.76813,915,0.52104,895,0.2366
+nrc_eil,False,10,30,931,0.48186,931,0.38919,921,0.43152,915,0.30423,917,0.69261,926,0.71212,921,0.76813,915,0.52104,895,0.2366
+nrc_eil,False,5,30,931,0.48186,931,0.38919,921,0.43152,915,0.30423,917,0.69261,926,0.71212,921,0.76813,915,0.52104,895,0.2366
