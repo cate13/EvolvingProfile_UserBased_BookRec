@@ -1,0 +1,4 @@
+Comparison File,mrr_p_val,P@1_p_val,P@3_p_val,P@5_p_val,Spearman_p_val,NDCG_2_p_val,NDCG_3_p_val,NDCG_5_p_val,NDCG_10_p_val
+EmoLex and with Bilinear Pool,0.78783,0.74883,0.39897,0.8293,0.92477,0.8425,0.44373,0.87551,0.71635
+NRC-EIL and with Bilinear Pool,0.09087,0.07547,0.24196,0.12385,0.80358,0.09947,0.17743,0.09541,0.09849
+NRC-EIL and without Bilinear Pool,0.13165,0.19204,0.09291,0.32229,0.79456,0.11946,0.09728,0.1973,0.12818
