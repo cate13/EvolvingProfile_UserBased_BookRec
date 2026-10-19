@@ -130,7 +130,7 @@ class EmotionVectorMaker:
 
         return emtion_vec_list
 
-    def getEmotionVector(self, text, removeObj = False, useSynset = True):
+    def getEmotionVector(self, text, removeObj = True, useSynset = True):
         #create the initial emotions
         emotions = {"Anger": 0.0,
                     "Anticipation": 0.0,
