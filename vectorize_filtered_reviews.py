@@ -75,6 +75,7 @@ def vectorize_reviews():
         tqdm(json_files, desc="Vectorizing users"),
         start=1,
     ):
+        print(f"[{file_index}/{len(json_files)}] Processing {input_file.name}")
         try:
             with open(input_file, "r", encoding="utf-8") as f:
                 reviews = json.load(f)
@@ -122,6 +123,8 @@ def vectorize_reviews():
 
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(vectorized_reviews, f, ensure_ascii=False)
+
+        print(f"  Saved {len(vectorized_reviews)} vectorized reviews.")
 
     print("\nFinished!")
     print(f"Unique overlapping users in CSV: {len(overlapping_users):,}")
