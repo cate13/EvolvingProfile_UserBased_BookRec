@@ -1,3 +1,6 @@
+Goodreads_book_vectors/all_description_emotion_vectors.jsonl filter=lfs diff=lfs merge=lfs -text
+Goodreads_book_vectors/extra/base_description_emotion_vectors.jsonl filter=lfs diff=lfs merge=lfs -text
+Goodreads_book_vectors/extra/not_needed_fantasy_paranormal_description_emotion_vectors.jsonl filter=lfs diff=lfs merge=lfs -text
 all_description_emotion_vectors.jsonl filter=lfs diff=lfs merge=lfs -text
 Goodreads_book_vectors/base_description_emotion_vectors.jsonl filter=lfs diff=lfs merge=lfs -text
 Goodreads_book_vectors/not_needed_fantasy_paranormal_description_emotion_vectors.jsonl filter=lfs diff=lfs merge=lfs -text

@@ -6,8 +6,8 @@ from VectorMakers.EmotionVectorMaker import EmotionVectorMaker
 
 
 # Directories
-INPUT_DIR = Path("Goodreads_data/1st10000users")
-OUTPUT_DIR = Path("Goodreads_review_vectors")
+INPUT_DIR = Path("Goodreads_data/1st4000users")
+OUTPUT_DIR = Path("Goodreads_review_vectors_larger")
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
