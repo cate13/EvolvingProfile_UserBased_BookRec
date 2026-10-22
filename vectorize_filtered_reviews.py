@@ -7,9 +7,10 @@ from VectorMakers.EmotionVectorMaker import EmotionVectorMaker
 
 
 # Directories
-INPUT_DIR = Path("Goodreads_data/1st10000users")
-PAIRS_FILE = Path("Goodreads_data/overlapping_user_pairs_100.csv")
-OUTPUT_DIR = Path("Goodreads_review_vectors")
+INPUT_DIR = Path("Goodreads_data/1st4000users")
+PAIRS_FILE = Path("Goodreads_data/overlapping_user_pairs_under600.csv")
+ALREADY_DONE_DIR = Path("Goodreads_review_vectors")
+OUTPUT_DIR = Path("good_read_review_users_100_plus_shared_less_than_600_total")
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -52,6 +53,7 @@ def vectorize_reviews():
         if (
             file_path.stem in overlapping_users
             and not (OUTPUT_DIR / file_path.name).exists()
+            and not (ALREADY_DONE_DIR / file_path.name).exists
         )
     )
 
@@ -62,6 +64,7 @@ def vectorize_reviews():
         if (
             file_path.stem in overlapping_users
             and (OUTPUT_DIR / file_path.name).exists()
+            and (ALREADY_DONE_DIR / file_path.name).exists()
         )
     )
 

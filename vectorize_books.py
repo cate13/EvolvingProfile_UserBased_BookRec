@@ -7,8 +7,8 @@ from VectorMakers.EmotionVectorMaker import EmotionVectorMaker
 
 # File paths
 BOOK_IDS_FILE = Path("Goodreads_book_vectors/missing_book_ids.txt")
-INPUT_FILE = Path("Goodreads_Data/goodreads_books_children.json")
-OUTPUT_FILE = Path("Goodreads_book_vectors/missing_description_emotion_vectors.jsonl")
+INPUT_FILE = Path("Goodreads_Data/goodreads_books_romance.json")
+OUTPUT_FILE = Path("Goodreads_book_vectors/romance_description_emotion_vectors.jsonl")
 NOT_FOUND_FILE = Path("Goodreads_book_vectors/book_ids_not_found.txt")
 
 
