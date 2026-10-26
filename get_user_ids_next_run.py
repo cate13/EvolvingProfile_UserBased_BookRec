@@ -2,9 +2,9 @@ import csv
 from pathlib import Path
 
 # Directories and files
-CSV_FILE = Path("Goodreads_Data/overlapping_user_pairs_under600.csv")
+CSV_FILE = Path("Goodreads_Data/overlapping_user_pairs_100under600.csv")
 VECTORS_DIR = Path("Goodreads_review_vectors")
-OUTPUT_FILE = Path("Goodreads_Data/users_missing_review_vectors.txt")
+OUTPUT_FILE = Path("Goodreads_Data/users_missing_review_vectors_100.txt")
 
 
 def find_missing_user_vectors():

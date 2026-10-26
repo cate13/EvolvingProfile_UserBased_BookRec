@@ -14,7 +14,7 @@ INPUT_DIRS = [
     BASE_DIR / "3rd4000users",
 ]
 
-MISSING_USERS_FILE = BASE_DIR / "users_missing_review_vectors.txt"
+MISSING_USERS_FILE = BASE_DIR / "users_missing_review_vectors_100.txt"
 OUTPUT_DIR = Path("Goodreads_review_vectors_larger")
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
