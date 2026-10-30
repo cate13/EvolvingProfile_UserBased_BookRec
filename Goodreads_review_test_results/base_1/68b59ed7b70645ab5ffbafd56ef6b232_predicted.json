@@ -1,0 +1,6561 @@
+{
+  "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+  "history": [
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "28965577",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.16348859018443263,
+        "Disgust": 0.0,
+        "Fear": 0.0440762738355736,
+        "Joy": 0.30134417005314157,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.49109096592685214
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22075732",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.315330060010911,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4206219312602291,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.26404800872885975
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24396171",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2,
+        "Anticipation": 0.0,
+        "Disgust": 0.2,
+        "Fear": 0.2,
+        "Joy": 0.0,
+        "Sadness": 0.2,
+        "Surprise": 0.0,
+        "Trust": 0.2
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.12278595016511556,
+        "Anticipation": 0.1570099069348544,
+        "Disgust": 0.16871810267187032,
+        "Fear": 0.2440708495947163,
+        "Joy": 0.0,
+        "Sadness": 0.1924347042930051,
+        "Surprise": 0.0,
+        "Trust": 0.1149804863404383
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23005153",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.38229166666666664,
+        "Disgust": 0.0,
+        "Fear": 0.048958333333333326,
+        "Joy": 0.2677083333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.30104166666666665
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18196941",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.3333333333333333,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.3268651722984276,
+        "Anticipation": 0.0,
+        "Disgust": 0.14653730344596858,
+        "Fear": 0.24054867848778858,
+        "Joy": 0.045500167280026774,
+        "Sadness": 0.0,
+        "Surprise": 0.24054867848778858,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23488594",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23375508",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.6006230529595015,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3993769470404984
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20840544",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.75
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.16529709228824274,
+        "Disgust": 0.0,
+        "Fear": 0.044563843236409606,
+        "Joy": 0.26169405815423513,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5284450063211126
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22097159",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2857142857142857,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.42857142857142855,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2857142857142857
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.4376831580761938,
+        "Disgust": 0.0,
+        "Fear": 0.02430615411136011,
+        "Joy": 0.3440786071367006,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.19393208067574558
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23158848",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2608303249097473,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3479241877256318,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3912454873646209
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22336924",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.18256130790190736,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5581289736603089,
+        "Sadness": 0.0,
+        "Surprise": 0.1030881017257039,
+        "Trust": 0.1562216167120799
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24669408",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.39328201539538143,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6067179846046187
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "17800107",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.20873961719032139,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4781509570241965,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.31310942578548207
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20501942",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2478912839737582,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4517338331771321,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3003748828491097
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22013925",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18717645",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.375,
+        "Anticipation": 0.125,
+        "Disgust": 0.0,
+        "Fear": 0.125,
+        "Joy": 0.125,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.3840499816244028,
+        "Anticipation": 0.10915104740904079,
+        "Disgust": 0.06596839397280412,
+        "Fear": 0.10051451672179347,
+        "Joy": 0.15214994487320838,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.18816611539875047
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "30343519",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.1548974943052392,
+        "Sadness": 0.0,
+        "Surprise": 0.8451025056947608,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25463471",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.16666666666666666,
+        "Disgust": 0.0,
+        "Fear": 0.16666666666666666,
+        "Joy": 0.16666666666666666,
+        "Sadness": 0.16666666666666666,
+        "Surprise": 0.16666666666666666,
+        "Trust": 0.16666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.24778087750443825,
+        "Disgust": 0.0,
+        "Fear": 0.007862033984275933,
+        "Joy": 0.33629216332741574,
+        "Sadness": 0.0,
+        "Surprise": 0.1288359117423282,
+        "Trust": 0.279229013441542
+      },
+      "rating": 3
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20983760",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4470842332613391,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5529157667386609
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20497616",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.1623215394165115,
+        "Disgust": 0.0,
+        "Fear": 0.04376163873370577,
+        "Joy": 0.29919304779639977,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.49472377405338297
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "27016489",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2848583877995643,
+        "Disgust": 0.0,
+        "Fear": 0.07679738562091502,
+        "Joy": 0.3747276688453159,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2636165577342048
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25502195",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.10369774919614148,
+        "Anticipation": 0.21663987138263666,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.33118971061093244,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3484726688102894
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24688109",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.6666666666666666,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.39108387914641873,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.24255229241495882,
+        "Sadness": 0.0,
+        "Surprise": 0.12043101626875133,
+        "Trust": 0.24593281216987115
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23591350",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.75
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.35500515995872034,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6449948400412797
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23785848",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22873780",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2616368286445013,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.34092071611253205,
+        "Sadness": 0.0,
+        "Surprise": 0.051918158567774944,
+        "Trust": 0.34552429667519186
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21479006",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.13636363636363635,
+        "Anticipation": 0.045454545454545456,
+        "Disgust": 0.13636363636363635,
+        "Fear": 0.13636363636363635,
+        "Joy": 0.09090909090909091,
+        "Sadness": 0.18181818181818182,
+        "Surprise": 0.13636363636363635,
+        "Trust": 0.13636363636363635
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.06440949614344385,
+        "Anticipation": 0.05559451066813584,
+        "Disgust": 0.07592907943503958,
+        "Fear": 0.10487829309826707,
+        "Joy": 0.07993589101472504,
+        "Sadness": 0.23479915856956826,
+        "Surprise": 0.20965641590704198,
+        "Trust": 0.17479715516377842
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21570599",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.16666666666666666,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.14735364875701681,
+        "Anticipation": 0.10485164394546911,
+        "Disgust": 0.07197273456295107,
+        "Fear": 0.028267842822774652,
+        "Joy": 0.33299919807538086,
+        "Sadness": 0.10926222935044105,
+        "Surprise": 0.0,
+        "Trust": 0.2052927024859663
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25780977",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18192699",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.3138720224194302,
+        "Joy": 0.3867351704810836,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.29939280709948624
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23197095",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.1,
+        "Anticipation": 0.1,
+        "Disgust": 0.1,
+        "Fear": 0.1,
+        "Joy": 0.2,
+        "Sadness": 0.2,
+        "Surprise": 0.0,
+        "Trust": 0.2
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.08584422967595225,
+        "Anticipation": 0.10801591813530413,
+        "Disgust": 0.15406480955088117,
+        "Fear": 0.0710631040363843,
+        "Joy": 0.3064241046048891,
+        "Sadness": 0.16297138525677468,
+        "Surprise": 0.0,
+        "Trust": 0.11161644873981427
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25643846",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.6900420757363254,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.30995792426367463,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25975507",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21807998",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.21951659451659455,
+        "Anticipation": 0.13943001443001443,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3508297258297258,
+        "Sadness": 0.0,
+        "Surprise": 0.0661976911976912,
+        "Trust": 0.22402597402597405
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24382157",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.0,
+        "Sadness": 0.3333333333333333,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.3161391168425166,
+        "Anticipation": 0.189136381398984,
+        "Disgust": 0.0,
+        "Fear": 0.2258694802657288,
+        "Joy": 0.0,
+        "Sadness": 0.26885502149277063,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21935336",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.18698605648909547,
+        "Disgust": 0.0,
+        "Fear": 0.3017518770110833,
+        "Joy": 0.0,
+        "Sadness": 0.24597783339292098,
+        "Surprise": 0.26528423310690025,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25664796",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.125,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.25,
+        "Joy": 0.125,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.13719306150033792,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.25816625366073437,
+        "Joy": 0.18652849740932642,
+        "Sadness": 0.18742960126154543,
+        "Surprise": 0.0,
+        "Trust": 0.23068258616805587
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21064108",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24309686",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.16666666666666666,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.16666666666666666,
+        "Sadness": 0.0,
+        "Surprise": 0.16666666666666666,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.17955886921404163,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.28176452314383355,
+        "Sadness": 0.0,
+        "Surprise": 0.12364088226157194,
+        "Trust": 0.41503572538055294
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25465052",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 1.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.31812652068126523,
+        "Disgust": 0.0,
+        "Fear": 0.08576642335766423,
+        "Joy": 0.08272506082725062,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.51338199513382
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24793902",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4977930358018637,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5022069641981363
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21805408",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.4,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.2,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.4
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.04642733862616501,
+        "Anticipation": 0.180704176734553,
+        "Disgust": 0.06472212633759061,
+        "Fear": 0.12409389023127373,
+        "Joy": 0.1781152916810494,
+        "Sadness": 0.11063168795305489,
+        "Surprise": 0.14566793234380393,
+        "Trust": 0.1496375560925095
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25213504",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.1548974943052392,
+        "Sadness": 0.0,
+        "Surprise": 0.8451025056947608,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "15852023",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.17589774802191113,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3867924528301887,
+        "Sadness": 0.0,
+        "Surprise": 0.17346317711503348,
+        "Trust": 0.26384662203286674
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22877766",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2,
+        "Anticipation": 0.0,
+        "Disgust": 0.2,
+        "Fear": 0.2,
+        "Joy": 0.2,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.17691929133858267,
+        "Anticipation": 0.0,
+        "Disgust": 0.1077755905511811,
+        "Fear": 0.17691929133858267,
+        "Joy": 0.20374015748031496,
+        "Sadness": 0.0,
+        "Surprise": 0.17691929133858267,
+        "Trust": 0.1577263779527559
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23011613",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.125,
+        "Disgust": 0.125,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.16995028539863744,
+        "Anticipation": 0.10642607254649235,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.41152642238998344,
+        "Sadness": 0.0,
+        "Surprise": 0.10495304732093536,
+        "Trust": 0.20714417234395138
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22093989",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23010184",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.09772047832585949,
+        "Disgust": 0.0,
+        "Fear": 0.026345291479820624,
+        "Joy": 0.5166292974588939,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.359304932735426
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24310584",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5636487406398911,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.43635125936010893
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25791210",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4470842332613391,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5529157667386609
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "17875167",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25442666",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.1,
+        "Anticipation": 0.1,
+        "Disgust": 0.1,
+        "Fear": 0.1,
+        "Joy": 0.30000000000000004,
+        "Sadness": 0.2,
+        "Surprise": 0.0,
+        "Trust": 0.1
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.10162101732811626,
+        "Anticipation": 0.12219116825041922,
+        "Disgust": 0.06282839575181666,
+        "Fear": 0.1451089994410285,
+        "Joy": 0.2863051984348798,
+        "Sadness": 0.09424259362772497,
+        "Surprise": 0.07076579094466182,
+        "Trust": 0.1169368362213527
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22042981",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.3333333333333333,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2666195190947666,
+        "Anticipation": 0.0,
+        "Disgust": 0.1326025459688826,
+        "Fear": 0.2542432814710042,
+        "Joy": 0.04809052333804809,
+        "Sadness": 0.0,
+        "Surprise": 0.2984441301272984,
+        "Trust": 0.0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23003746",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.125,
+        "Surprise": 0.0,
+        "Trust": 0.125
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.1910892766389971,
+        "Anticipation": 0.0,
+        "Disgust": 0.1694053870913095,
+        "Fear": 0.23564289344401151,
+        "Joy": 0.0,
+        "Sadness": 0.21717770625105878,
+        "Surprise": 0.12180247331865153,
+        "Trust": 0.06488226325597155
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21518679",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.16666666666666666,
+        "Fear": 0.16666666666666666,
+        "Joy": 0.0,
+        "Sadness": 0.3333333333333333,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.29275905118601747,
+        "Anticipation": 0.0,
+        "Disgust": 0.17540574282147317,
+        "Fear": 0.20973782771535582,
+        "Joy": 0.0,
+        "Sadness": 0.32209737827715357,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25968411",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.25,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2933377527345045,
+        "Anticipation": 0.1733510109380179,
+        "Disgust": 0.0,
+        "Fear": 0.24859131587669872,
+        "Joy": 0.28471992045077893,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "28939398",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20645293",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2,
+        "Anticipation": 0.2,
+        "Disgust": 0.2,
+        "Fear": 0.0,
+        "Joy": 0.4,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.09032131661442007,
+        "Anticipation": 0.19905956112852666,
+        "Disgust": 0.17456896551724138,
+        "Fear": 0.0,
+        "Joy": 0.33072100313479624,
+        "Sadness": 0.08581504702194358,
+        "Surprise": 0.0,
+        "Trust": 0.1195141065830721
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23873038",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 1.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.5587557603686636,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.44124423963133647
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "31452719",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "27263454",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24539690",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.6006230529595015,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3993769470404984
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25262643",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18211118",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.315330060010911,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4206219312602291,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.26404800872885975
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23318098",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22018111",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.16666666666666666,
+        "Anticipation": 0.0,
+        "Disgust": 0.16666666666666666,
+        "Fear": 0.16666666666666666,
+        "Joy": 0.0,
+        "Sadness": 0.3333333333333333,
+        "Surprise": 0.0,
+        "Trust": 0.16666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.13322475570032571,
+        "Anticipation": 0.0,
+        "Disgust": 0.18306188925081435,
+        "Fear": 0.21889250814332248,
+        "Joy": 0.06547231270358306,
+        "Sadness": 0.27459283387622146,
+        "Surprise": 0.0,
+        "Trust": 0.1247557003257329
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23161159",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.6666666666666666,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.5913134484563055,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4086865515436944,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 3
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "30628356",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.25,
+        "Joy": 0.25,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.12818405916187345,
+        "Joy": 0.7058340180772391,
+        "Sadness": 0.16598192276088744,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23477627",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5782894736842106,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.42171052631578954
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18054056",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25767875",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18131119",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.6916264090177133,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.30837359098228667
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25792268",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 1.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.8263707571801567,
+        "Disgust": 0.17362924281984335,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23593564",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.17907180385288965,
+        "Anticipation": 0.0,
+        "Disgust": 0.24605954465849386,
+        "Fear": 0.29422066549912435,
+        "Joy": 0.0,
+        "Sadness": 0.2806479859894921,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "29777622",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2519346517626827,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3314703353396388,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.41659501289767836
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "4753875",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20871334",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22460296",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.08333333333333333,
+        "Anticipation": 0.16666666666666666,
+        "Disgust": 0.08333333333333333,
+        "Fear": 0.16666666666666666,
+        "Joy": 0.16666666666666666,
+        "Sadness": 0.08333333333333333,
+        "Surprise": 0.08333333333333333,
+        "Trust": 0.16666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.06077265973254086,
+        "Anticipation": 0.1939078751857355,
+        "Disgust": 0.10326894502228827,
+        "Fear": 0.10906389301634473,
+        "Joy": 0.2705794947994057,
+        "Sadness": 0.09524517087667163,
+        "Surprise": 0.11025260029717682,
+        "Trust": 0.05690936106983655
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23129516",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2608303249097473,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3479241877256318,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3912454873646209
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24151121",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.16666666666666666,
+        "Anticipation": 0.16666666666666666,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.12172112287160607,
+        "Anticipation": 0.1329958582604694,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.48642429820524613,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2588587206626783
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23258847",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.14285714285714285,
+        "Anticipation": 0.0,
+        "Disgust": 0.14285714285714285,
+        "Fear": 0.14285714285714285,
+        "Joy": 0.14285714285714285,
+        "Sadness": 0.14285714285714285,
+        "Surprise": 0.0,
+        "Trust": 0.2857142857142857
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.08286061588330632,
+        "Anticipation": 0.10595623987034035,
+        "Disgust": 0.11385737439222043,
+        "Fear": 0.16470826580226905,
+        "Joy": 0.1952998379254457,
+        "Sadness": 0.12986223662884927,
+        "Surprise": 0.0,
+        "Trust": 0.20745542949756887
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23704626",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "28482841",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 1.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.23600196463654222,
+        "Disgust": 0.0,
+        "Fear": 0.13040275049115915,
+        "Joy": 0.3342337917485266,
+        "Sadness": 0.0,
+        "Surprise": 0.0537819253438114,
+        "Trust": 0.2455795677799607
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23444042",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22699571",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "17314410",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2,
+        "Anticipation": 0.2,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.2,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.4
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.25136861313868614,
+        "Anticipation": 0.13366788321167883,
+        "Disgust": 0.18704379562043796,
+        "Fear": 0.0,
+        "Joy": 0.2068886861313869,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.22103102189781024
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23247100",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.5,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3028601978080727,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.21892542101042503,
+        "Sadness": 0.0,
+        "Surprise": 0.15049452018176956,
+        "Trust": 0.32771986099973266
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "26054738",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "17305048",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.28626345463864683,
+        "Disgust": 0.0,
+        "Fear": 0.03613531522296258,
+        "Joy": 0.24705279343926193,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.43054843669912873
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21570564",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.07055702917771885,
+        "Fear": 0.0,
+        "Joy": 0.370291777188329,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5591511936339523
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25069962",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22910368",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.2,
+        "Joy": 0.2,
+        "Sadness": 0.2,
+        "Surprise": 0.0,
+        "Trust": 0.4
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2872005806919913,
+        "Disgust": 0.0,
+        "Fear": 0.1550931526736027,
+        "Joy": 0.20033873699491894,
+        "Sadness": 0.1096056133559158,
+        "Surprise": 0.0,
+        "Trust": 0.24776191628357125
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21857390",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 1.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 1.0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24965021",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2,
+        "Anticipation": 0.1,
+        "Disgust": 0.05,
+        "Fear": 0.15000000000000002,
+        "Joy": 0.1,
+        "Sadness": 0.15000000000000002,
+        "Surprise": 0.1,
+        "Trust": 0.15000000000000002
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.12933841357810877,
+        "Anticipation": 0.18940076203671635,
+        "Disgust": 0.0687218565985452,
+        "Fear": 0.18843089712504332,
+        "Joy": 0.11562175268444752,
+        "Sadness": 0.13848285417388292,
+        "Surprise": 0.12289573952199515,
+        "Trust": 0.04710772428126082
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "28100462",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.5,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.18923895253682488,
+        "Disgust": 0.0,
+        "Fear": 0.07037643207855973,
+        "Joy": 0.2526595744680851,
+        "Sadness": 0.0,
+        "Surprise": 0.198240589198036,
+        "Trust": 0.2894844517184943
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23291494",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2078696343402226,
+        "Disgust": 0.0,
+        "Fear": 0.05604133545310015,
+        "Joy": 0.32909379968203495,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.4069952305246423
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21063217",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.3333333333333333,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.177319587628866,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.6838487972508591,
+        "Sadness": 0.13883161512027492,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25116881",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22107044",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.125,
+        "Surprise": 0.0,
+        "Trust": 0.125
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.13165519739224918,
+        "Anticipation": 0.10639261137269106,
+        "Disgust": 0.10684534588917059,
+        "Fear": 0.20472654835204637,
+        "Joy": 0.09942049981890619,
+        "Sadness": 0.053784860557768925,
+        "Surprise": 0.11888808402752626,
+        "Trust": 0.17828685258964144
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "27625752",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.28133405056481986,
+        "Disgust": 0.0,
+        "Fear": 0.07584722969338353,
+        "Joy": 0.2227003765465304,
+        "Sadness": 0.14470145239376012,
+        "Surprise": 0.0,
+        "Trust": 0.2754168908015062
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23677988",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2727272727272727,
+        "Anticipation": 0.09090909090909091,
+        "Disgust": 0.18181818181818182,
+        "Fear": 0.09090909090909091,
+        "Joy": 0.0,
+        "Sadness": 0.2727272727272727,
+        "Surprise": 0.0,
+        "Trust": 0.09090909090909091
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.30963736164851974,
+        "Anticipation": 0.15315396382614957,
+        "Disgust": 0.17007108791505443,
+        "Fear": 0.05624043912534869,
+        "Joy": 0.06496895527760281,
+        "Sadness": 0.1306577881760101,
+        "Surprise": 0.03302438585440475,
+        "Trust": 0.08224601817690994
+      },
+      "rating": 5
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25095548",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.058823529411764705,
+        "Anticipation": 0.0,
+        "Disgust": 0.11764705882352941,
+        "Fear": 0.11764705882352941,
+        "Joy": 0.1764705882352941,
+        "Sadness": 0.058823529411764705,
+        "Surprise": 0.0,
+        "Trust": 0.47058823529411764
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.1314393939393939,
+        "Anticipation": 0.0,
+        "Disgust": 0.13136363636363635,
+        "Fear": 0.09568181818181817,
+        "Joy": 0.1574242424242424,
+        "Sadness": 0.10424242424242422,
+        "Surprise": 0.0,
+        "Trust": 0.3798484848484848
+      },
+      "rating": 5
+    }
+  ],
+  "recommendations": [
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24283477",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 1.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 1.0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22043009",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 1.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.45497185741088175,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.1275797373358349,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.41744840525328325
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24498296",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.27458432304038005,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.49548693586698345,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.22992874109263658
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25447950",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2857142857142857,
+        "Anticipation": 0.0,
+        "Disgust": 0.2857142857142857,
+        "Fear": 0.2857142857142857,
+        "Joy": 0.0,
+        "Sadness": 0.14285714285714285,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.1986265187533016,
+        "Anticipation": 0.0920936784645184,
+        "Disgust": 0.17608733932030285,
+        "Fear": 0.26976580383870397,
+        "Joy": 0.023947878147561188,
+        "Sadness": 0.11287198450431413,
+        "Surprise": 0.12660679697129773,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25350300",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "27225549",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2,
+        "Anticipation": 0.0,
+        "Disgust": 0.2,
+        "Fear": 0.2,
+        "Joy": 0.0,
+        "Sadness": 0.2,
+        "Surprise": 0.0,
+        "Trust": 0.2
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.10399186371726417,
+        "Anticipation": 0.11924739384693617,
+        "Disgust": 0.1428934655479278,
+        "Fear": 0.17086193745232647,
+        "Joy": 0.10322908721078058,
+        "Sadness": 0.16297991355199593,
+        "Surprise": 0.0,
+        "Trust": 0.19679633867276888
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "3681619",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23161447",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.12391749330814046,
+        "Anticipation": 0.20406235238545112,
+        "Disgust": 0.0,
+        "Fear": 0.022201228153046763,
+        "Joy": 0.20217288615965995,
+        "Sadness": 0.0,
+        "Surprise": 0.05778617540544796,
+        "Trust": 0.38985986458825383
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22152589",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.14285714285714285,
+        "Anticipation": 0.0,
+        "Disgust": 0.14285714285714285,
+        "Fear": 0.14285714285714285,
+        "Joy": 0.14285714285714285,
+        "Sadness": 0.14285714285714285,
+        "Surprise": 0.0,
+        "Trust": 0.2857142857142857
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.08126365984502283,
+        "Anticipation": 0.10391416650109278,
+        "Disgust": 0.11166302404132725,
+        "Fear": 0.16153387641565667,
+        "Joy": 0.2869064176435525,
+        "Sadness": 0.12735942777667394,
+        "Surprise": 0.0,
+        "Trust": 0.12735942777667394
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24964922",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18880307",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23219411",
+      "emo_lex_emotion_vector": {
+        "Anger": 1.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.9999999999999999,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22020052",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.1,
+        "Anticipation": 0.0,
+        "Disgust": 0.1,
+        "Fear": 0.1,
+        "Joy": 0.2,
+        "Sadness": 0.1,
+        "Surprise": 0.0,
+        "Trust": 0.4
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.05723481668066051,
+        "Anticipation": 0.0,
+        "Disgust": 0.07864539602574867,
+        "Fear": 0.09403862300587743,
+        "Joy": 0.2507696613490064,
+        "Sadness": 0.08970053176602295,
+        "Surprise": 0.0,
+        "Trust": 0.429610971172684
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20824129",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.5,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.5,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.7024154589371981,
+        "Fear": 0.0,
+        "Joy": 0.13140096618357489,
+        "Sadness": 0.0,
+        "Surprise": 0.16618357487922705,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23622173",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20497619",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25438676",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21902610",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5636487406398911,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.43635125936010893
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23439076",
+      "emo_lex_emotion_vector": {
+        "Anger": 1.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.7185901080159182,
+        "Anticipation": 0.0,
+        "Disgust": 0.20409323479249575,
+        "Fear": 0.0,
+        "Joy": 0.07731665719158613,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25251498",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 1.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25017191",
+      "emo_lex_emotion_vector": {
+        "Anger": 1.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.7788046826863831,
+        "Anticipation": 0.0,
+        "Disgust": 0.22119531731361675,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22029000",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.6666666666666666,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.861810391001607,
+        "Sadness": 0.0,
+        "Surprise": 0.13818960899839317,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22603486",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.19974968710888613,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.29987484355444305,
+        "Sadness": 0.0,
+        "Surprise": 0.14267834793491865,
+        "Trust": 0.3576971214017522
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23269991",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2857142857142857,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.2857142857142857,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.42857142857142855
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.15032679738562094,
+        "Anticipation": 0.1686558681443592,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.31798806479113384,
+        "Sadness": 0.0,
+        "Surprise": 0.05214549587951123,
+        "Trust": 0.3108837737993749
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22068620",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.125,
+        "Anticipation": 0.0,
+        "Disgust": 0.125,
+        "Fear": 0.125,
+        "Joy": 0.25,
+        "Sadness": 0.125,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.11691337719298243,
+        "Anticipation": 0.0,
+        "Disgust": 0.09320175438596491,
+        "Fear": 0.21422697368421048,
+        "Joy": 0.1947642543859649,
+        "Sadness": 0.2780975877192982,
+        "Surprise": 0.0,
+        "Trust": 0.10279605263157893
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25861706",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.1548974943052392,
+        "Sadness": 0.0,
+        "Surprise": 0.8451025056947608,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25399162",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.17907180385288965,
+        "Anticipation": 0.0,
+        "Disgust": 0.24605954465849386,
+        "Fear": 0.29422066549912435,
+        "Joy": 0.0,
+        "Sadness": 0.2806479859894921,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23642839",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.3333333333333333,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2770712909441233,
+        "Anticipation": 0.0,
+        "Disgust": 0.16878612716763006,
+        "Fear": 0.2770712909441233,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.2770712909441233,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21461458",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25777329",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.17907180385288965,
+        "Anticipation": 0.0,
+        "Disgust": 0.24605954465849386,
+        "Fear": 0.29422066549912435,
+        "Joy": 0.0,
+        "Sadness": 0.2806479859894921,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20891547",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25341651",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.16666666666666666,
+        "Anticipation": 0.0,
+        "Disgust": 0.16666666666666666,
+        "Fear": 0.16666666666666666,
+        "Joy": 0.16666666666666666,
+        "Sadness": 0.16666666666666666,
+        "Surprise": 0.0,
+        "Trust": 0.16666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.1089794830802025,
+        "Anticipation": 0.0,
+        "Disgust": 0.14974686917132962,
+        "Fear": 0.17905675459632295,
+        "Joy": 0.22062350119904076,
+        "Sadness": 0.1707966959765521,
+        "Surprise": 0.0,
+        "Trust": 0.1707966959765521
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22210089",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "19245979",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4076809453471196,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5923190546528804
+      },
+      "rating": 4,
+      "predicted_rating": 3.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21534059",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.3333333333333333,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2770712909441233,
+        "Anticipation": 0.0,
+        "Disgust": 0.16878612716763006,
+        "Fear": 0.2770712909441233,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.2770712909441233,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25213121",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.16666666666666666,
+        "Anticipation": 0.0,
+        "Disgust": 0.16666666666666666,
+        "Fear": 0.16666666666666666,
+        "Joy": 0.16666666666666666,
+        "Sadness": 0.16666666666666666,
+        "Surprise": 0.0,
+        "Trust": 0.16666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.08983088073797495,
+        "Anticipation": 0.11486931693388974,
+        "Disgust": 0.12343509773775534,
+        "Fear": 0.17856358444981332,
+        "Joy": 0.21172853063913902,
+        "Sadness": 0.1407862947507138,
+        "Surprise": 0.0,
+        "Trust": 0.1407862947507138
+      },
+      "rating": 5,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24912674",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4619022595901209,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5380977404098792
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25004903",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 0,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25572287",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.17091752235839683,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.578005962239152,
+        "Sadness": 0.0,
+        "Surprise": 0.08545876117919841,
+        "Trust": 0.16561775422325273
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "19301526",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2,
+        "Anticipation": 0.0,
+        "Disgust": 0.2,
+        "Fear": 0.2,
+        "Joy": 0.0,
+        "Sadness": 0.2,
+        "Surprise": 0.0,
+        "Trust": 0.2
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0688722430295464,
+        "Anticipation": 0.16084061589679569,
+        "Disgust": 0.12359550561797752,
+        "Fear": 0.10049937578027465,
+        "Joy": 0.12193091968372867,
+        "Sadness": 0.12671660424469414,
+        "Surprise": 0.07636287973366625,
+        "Trust": 0.22118185601331672
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25805832",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25812418",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.25,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.15596529284164862,
+        "Anticipation": 0.1577006507592191,
+        "Disgust": 0.12386117136659437,
+        "Fear": 0.15596529284164862,
+        "Joy": 0.11149674620390458,
+        "Sadness": 0.0,
+        "Surprise": 0.15596529284164862,
+        "Trust": 0.13904555314533626
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22006900",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.24385805277525027,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.47907188353048225,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2770700636942675
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21964178",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 4,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "19245869",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.18181818181818182,
+        "Anticipation": 0.09090909090909091,
+        "Disgust": 0.0,
+        "Fear": 0.09090909090909091,
+        "Joy": 0.2727272727272727,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.36363636363636365
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.06969339622641509,
+        "Anticipation": 0.12983490566037734,
+        "Disgust": 0.0,
+        "Fear": 0.10176886792452829,
+        "Joy": 0.28691037735849056,
+        "Sadness": 0.0,
+        "Surprise": 0.054363207547169806,
+        "Trust": 0.35742924528301884
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25115384",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.125,
+        "Joy": 0.125,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.313390847711928,
+        "Disgust": 0.0,
+        "Fear": 0.10840210052513129,
+        "Joy": 0.27194298574643666,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.30626406601650413
+      },
+      "rating": 4,
+      "predicted_rating": 3.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25987974",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 1.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.44209636517328826,
+        "Disgust": 0.0,
+        "Fear": 0.1191885038038884,
+        "Joy": 0.11496196111580728,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3237531699070161
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "26811330",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18841450",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.42857142857142855,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5714285714285714
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0958929226255959,
+        "Disgust": 0.0,
+        "Fear": 0.02585258525852585,
+        "Joy": 0.45544554455445546,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.42280894756142284
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22922906",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "30073199",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.0,
+        "Sadness": 0.3333333333333333,
+        "Surprise": 0.3333333333333333,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.09013893595391394,
+        "Anticipation": 0.177228058285327,
+        "Disgust": 0.0,
+        "Fear": 0.29955947136563876,
+        "Joy": 0.04608607251779058,
+        "Sadness": 0.13554727211114878,
+        "Surprise": 0.25144018976618093,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22451919",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.41815419673376375,
+        "Disgust": 0.0,
+        "Fear": 0.05355108241549563,
+        "Joy": 0.3444739840486138,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.18382073680212685
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24582414",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23300811",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.9999999999999999,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24294182",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.2857142857142857,
+        "Sadness": 0.0,
+        "Surprise": 0.14285714285714285,
+        "Trust": 0.5714285714285714
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.43590780428629194,
+        "Sadness": 0.0,
+        "Surprise": 0.1500202183582693,
+        "Trust": 0.41407197735543877
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "28917874",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.1,
+        "Anticipation": 0.2,
+        "Disgust": 0.2,
+        "Fear": 0.1,
+        "Joy": 0.1,
+        "Sadness": 0.0,
+        "Surprise": 0.2,
+        "Trust": 0.1
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.07762427004700186,
+        "Anticipation": 0.22803019512889902,
+        "Disgust": 0.20809001566728386,
+        "Fear": 0.05569007263922519,
+        "Joy": 0.08004557755305514,
+        "Sadness": 0.0,
+        "Surprise": 0.17689787779518587,
+        "Trust": 0.1736219911693491
+      },
+      "rating": 5,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24654248",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.2,
+        "Joy": 0.4,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.4
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.05042016806722689,
+        "Joy": 0.535229476405947,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.41435035552682614
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "28665956",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2457482993197279,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3856292517006803,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.36862244897959184
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22402806",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.4457516339869282,
+        "Disgust": 0.0,
+        "Fear": 0.06143790849673202,
+        "Joy": 0.4928104575163399,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20737063",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.125,
+        "Fear": 0.25,
+        "Joy": 0.125,
+        "Sadness": 0.0,
+        "Surprise": 0.125,
+        "Trust": 0.125
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2478728168383341,
+        "Anticipation": 0.0,
+        "Disgust": 0.1643528884908195,
+        "Fear": 0.22033139274518582,
+        "Joy": 0.18540080609046122,
+        "Sadness": 0.0,
+        "Surprise": 0.03851321092700402,
+        "Trust": 0.14352888490819524
+      },
+      "rating": 4,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24958341",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4849094567404426,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5150905432595573
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23703728",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.20227808326787114,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3252160251374705,
+        "Sadness": 0.0,
+        "Surprise": 0.22073841319717202,
+        "Trust": 0.2517674783974862
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25132460",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.17907180385288965,
+        "Anticipation": 0.0,
+        "Disgust": 0.24605954465849386,
+        "Fear": 0.29422066549912435,
+        "Joy": 0.0,
+        "Sadness": 0.2806479859894921,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "29418278",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.17907180385288965,
+        "Anticipation": 0.0,
+        "Disgust": 0.24605954465849386,
+        "Fear": 0.29422066549912435,
+        "Joy": 0.0,
+        "Sadness": 0.2806479859894921,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21816271",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.6666666666666666,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.6559510141599694,
+        "Sadness": 0.0,
+        "Surprise": 0.09873708381171069,
+        "Trust": 0.24531190202831996
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22107214",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.4,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.2,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.4
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3223001402524544,
+        "Disgust": 0.0,
+        "Fear": 0.17840112201963534,
+        "Joy": 0.22103786816269286,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2782608695652174
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23257498",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20581108",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.17907180385288965,
+        "Anticipation": 0.0,
+        "Disgust": 0.24605954465849386,
+        "Fear": 0.29422066549912435,
+        "Joy": 0.0,
+        "Sadness": 0.2806479859894921,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22465911",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18005373",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2608303249097473,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3479241877256318,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3912454873646209
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25025389",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.125,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.375,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.09475409836065574,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4978688524590164,
+        "Sadness": 0.0,
+        "Surprise": 0.04229508196721312,
+        "Trust": 0.36508196721311476
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24422234",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25700512",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2356428306780289,
+        "Anticipation": 0.22008151167098924,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3067802889959244,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.23749536865505744
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23945918",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.3333333333333333,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2770712909441233,
+        "Anticipation": 0.0,
+        "Disgust": 0.16878612716763006,
+        "Fear": 0.2770712909441233,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.2770712909441233,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22896485",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.125,
+        "Anticipation": 0.0,
+        "Disgust": 0.125,
+        "Fear": 0.125,
+        "Joy": 0.125,
+        "Sadness": 0.125,
+        "Surprise": 0.0,
+        "Trust": 0.375
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.15170479067760032,
+        "Joy": 0.17867932671558046,
+        "Sadness": 0.31031506258092356,
+        "Surprise": 0.0,
+        "Trust": 0.35930082002589553
+      },
+      "rating": 4,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18743467",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.14285714285714285,
+        "Anticipation": 0.14285714285714285,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.2857142857142857,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.42857142857142855
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.24172882004207305,
+        "Anticipation": 0.13291260279212086,
+        "Disgust": 0.06865557467967105,
+        "Fear": 0.0,
+        "Joy": 0.2772996748900363,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.27940332759609865
+      },
+      "rating": 5,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23161131",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.3333333333333333,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.12743972445464982,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.36486796785304243,
+        "Sadness": 0.0,
+        "Surprise": 0.17037887485648678,
+        "Trust": 0.3373134328358209
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "27258509",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.14285714285714285,
+        "Anticipation": 0.2857142857142857,
+        "Disgust": 0.14285714285714285,
+        "Fear": 0.14285714285714285,
+        "Joy": 0.14285714285714285,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.14285714285714285
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.11133477856921646,
+        "Anticipation": 0.2866212449674822,
+        "Disgust": 0.06782285537318054,
+        "Fear": 0.13316816351811706,
+        "Joy": 0.16150510994115827,
+        "Sadness": 0.0,
+        "Surprise": 0.16460204397646327,
+        "Trust": 0.07494580365438215
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20613920",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24415976",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "26028873",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.16666666666666666,
+        "Anticipation": 0.05555555555555555,
+        "Disgust": 0.1111111111111111,
+        "Fear": 0.1111111111111111,
+        "Joy": 0.16666666666666666,
+        "Sadness": 0.16666666666666666,
+        "Surprise": 0.1111111111111111,
+        "Trust": 0.1111111111111111
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.14507572103790875,
+        "Anticipation": 0.10398379473328832,
+        "Disgust": 0.08064049387479502,
+        "Fear": 0.09192630462043022,
+        "Joy": 0.17729333461946561,
+        "Sadness": 0.12356515867656989,
+        "Surprise": 0.15520401273270956,
+        "Trust": 0.12231117970483264
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25281368",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.17907180385288965,
+        "Anticipation": 0.0,
+        "Disgust": 0.24605954465849386,
+        "Fear": 0.29422066549912435,
+        "Joy": 0.0,
+        "Sadness": 0.2806479859894921,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22925176",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2987012987012987,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4850367024280067,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.21626199887069453
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22716453",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21411133",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.1304051753489956,
+        "Disgust": 0.0,
+        "Fear": 0.04256043581886279,
+        "Joy": 0.3775961865849507,
+        "Sadness": 0.0,
+        "Surprise": 0.0745658835546476,
+        "Trust": 0.37487231869254345
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18841490",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4470842332613391,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5529157667386609
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "29096808",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.07465618860510805,
+        "Anticipation": 0.28262699971933763,
+        "Disgust": 0.0,
+        "Fear": 0.23042380016839742,
+        "Joy": 0.23238843671063705,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.17990457479651978
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25322388",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24809233",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": 0.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "17931577",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.4,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.2,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.4
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.35938112025068547,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.26576576576576577,
+        "Sadness": 0.0,
+        "Surprise": 0.07187622405013709,
+        "Trust": 0.3029768899334117
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "26054317",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.19720965309200603,
+        "Disgust": 0.0,
+        "Fear": 0.05316742081447963,
+        "Joy": 0.363499245852187,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3861236802413273
+      },
+      "rating": 5,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20560467",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.18181818181818182,
+        "Anticipation": 0.09090909090909091,
+        "Disgust": 0.09090909090909091,
+        "Fear": 0.09090909090909091,
+        "Joy": 0.18181818181818182,
+        "Sadness": 0.09090909090909091,
+        "Surprise": 0.0,
+        "Trust": 0.2727272727272727
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.14629969418960245,
+        "Anticipation": 0.12232415902140674,
+        "Disgust": 0.0687461773700306,
+        "Fear": 0.09944954128440368,
+        "Joy": 0.2161467889908257,
+        "Sadness": 0.07840978593272172,
+        "Surprise": 0.0,
+        "Trust": 0.2686238532110092
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23663677",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.36374100719424457,
+        "Anticipation": 0.0,
+        "Disgust": 0.1033093525179856,
+        "Fear": 0.0,
+        "Joy": 0.238273381294964,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.29467625899280575
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18591210",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22589352",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3152501506931887,
+        "Disgust": 0.0,
+        "Fear": 0.08499095840867991,
+        "Joy": 0.5997588908981314,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18585527",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.5,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2626918536009445,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.33175914994096817,
+        "Sadness": 0.0,
+        "Surprise": 0.11983471074380166,
+        "Trust": 0.2857142857142857
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23844414",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.1111111111111111,
+        "Anticipation": 0.16666666666666666,
+        "Disgust": 0.05555555555555555,
+        "Fear": 0.16666666666666666,
+        "Joy": 0.16666666666666666,
+        "Sadness": 0.05555555555555555,
+        "Surprise": 0.1111111111111111,
+        "Trust": 0.16666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.07539398280802292,
+        "Anticipation": 0.1944842406876791,
+        "Disgust": 0.06572349570200572,
+        "Fear": 0.1460422636103152,
+        "Joy": 0.2095272206303725,
+        "Sadness": 0.11855300859598855,
+        "Surprise": 0.05524713467048711,
+        "Trust": 0.13502865329512895
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23596020",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2,
+        "Anticipation": 0.0,
+        "Disgust": 0.2,
+        "Fear": 0.2,
+        "Joy": 0.0,
+        "Sadness": 0.2,
+        "Surprise": 0.0,
+        "Trust": 0.2
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.11323366555924695,
+        "Anticipation": 0.14479512735326688,
+        "Disgust": 0.15559246954595793,
+        "Fear": 0.22508305647840532,
+        "Joy": 0.07779623477297896,
+        "Sadness": 0.1774640088593577,
+        "Surprise": 0.0,
+        "Trust": 0.10603543743078626
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22097153",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2,
+        "Anticipation": 0.06666666666666667,
+        "Disgust": 0.13333333333333333,
+        "Fear": 0.13333333333333333,
+        "Joy": 0.06666666666666667,
+        "Sadness": 0.13333333333333333,
+        "Surprise": 0.06666666666666667,
+        "Trust": 0.2
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.1508830482547629,
+        "Anticipation": 0.14990960923376445,
+        "Disgust": 0.09776109025170353,
+        "Fear": 0.15867056042275068,
+        "Joy": 0.1544986789041858,
+        "Sadness": 0.11305798915310805,
+        "Surprise": 0.049923515505492976,
+        "Trust": 0.1252955082742317
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24971047",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.3333333333333333,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2770712909441233,
+        "Anticipation": 0.0,
+        "Disgust": 0.16878612716763006,
+        "Fear": 0.2770712909441233,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.2770712909441233,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25497768",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.1548974943052392,
+        "Sadness": 0.0,
+        "Surprise": 0.8451025056947608,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "28439217",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6000000000000001
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.8171514922553834,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.18284850774461656
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24446976",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22840493",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24077263",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.12227488151658768,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3924170616113744,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.48530805687203793
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22857396",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.125,
+        "Disgust": 0.125,
+        "Fear": 0.125,
+        "Joy": 0.125,
+        "Sadness": 0.125,
+        "Surprise": 0.0,
+        "Trust": 0.125
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.2615697310819262,
+        "Anticipation": 0.09036898061288305,
+        "Disgust": 0.14399624765478425,
+        "Fear": 0.1050656660412758,
+        "Joy": 0.22310819262038775,
+        "Sadness": 0.10021888680425266,
+        "Surprise": 0.0,
+        "Trust": 0.07567229518449031
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "13568595",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25060093",
+      "emo_lex_emotion_vector": {
+        "Anger": 1.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.9999999999999999,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25285830",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.21687429218573048,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3097395243488109,
+        "Sadness": 0.0,
+        "Surprise": 0.12400906002265007,
+        "Trust": 0.34937712344280863
+      },
+      "rating": 3,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25095546",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.2222222222222222,
+        "Anticipation": 0.0,
+        "Disgust": 0.1111111111111111,
+        "Fear": 0.1111111111111111,
+        "Joy": 0.2222222222222222,
+        "Sadness": 0.1111111111111111,
+        "Surprise": 0.0,
+        "Trust": 0.2222222222222222
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.21257680742580726,
+        "Anticipation": 0.06837495097398352,
+        "Disgust": 0.07347365668714866,
+        "Fear": 0.10628840371290364,
+        "Joy": 0.188913583474964,
+        "Sadness": 0.08380180415740619,
+        "Surprise": 0.0,
+        "Trust": 0.2665707935677866
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18605047",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5636487406398911,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.43635125936010893
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25862549",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 1.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22854806",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.5,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.34948005791759906,
+        "Disgust": 0.0,
+        "Fear": 0.024746610504146373,
+        "Joy": 0.24509674871659864,
+        "Sadness": 0.0,
+        "Surprise": 0.15019086481505856,
+        "Trust": 0.23048571804659734
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23148892",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4470842332613391,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5529157667386609
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "15777771",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.4
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.13139801375095495,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4148204736440031,
+        "Sadness": 0.0,
+        "Surprise": 0.06569900687547747,
+        "Trust": 0.3880825057295646
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "26080491",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.20631163708086783,
+        "Disgust": 0.0,
+        "Fear": 0.055621301775147916,
+        "Joy": 0.38027613412228795,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.35779092702169624
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "26249315",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4,
+        "Sadness": 0.2,
+        "Surprise": 0.0,
+        "Trust": 0.4
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.17991056071551428,
+        "Disgust": 0.0,
+        "Fear": 0.04850361197110423,
+        "Joy": 0.5356037151702786,
+        "Sadness": 0.0694874441004472,
+        "Surprise": 0.0,
+        "Trust": 0.16649466804265564
+      },
+      "rating": 4,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25265355",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.7220609579100145,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2779390420899855
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23341855",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.5,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.27338501291989664,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.15348837209302324,
+        "Sadness": 0.0,
+        "Surprise": 0.5731266149870801,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "17156015",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.15647187329328235,
+        "Anticipation": 0.1428181321682141,
+        "Disgust": 0.2239213544511196,
+        "Fear": 0.038503549972692515,
+        "Joy": 0.2632441288913162,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.17504096122337523
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18464441",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.6548223350253808,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3451776649746193,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21902244",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21853688",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.4,
+        "Anticipation": 0.0,
+        "Disgust": 0.2,
+        "Fear": 0.2,
+        "Joy": 0.0,
+        "Sadness": 0.2,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.34464,
+        "Anticipation": 0.0,
+        "Disgust": 0.26016,
+        "Fear": 0.12,
+        "Joy": 0.0,
+        "Sadness": 0.2752,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23287381",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.46143122676579923,
+        "Anticipation": 0.2430297397769517,
+        "Disgust": 0.16682156133828996,
+        "Fear": 0.06552044609665426,
+        "Joy": 0.06319702602230484,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23662114",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.5,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.5,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.5923694779116466,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.4076305220883534,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18480392",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4470842332613391,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5529157667386609
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25314953",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.1548974943052392,
+        "Sadness": 0.0,
+        "Surprise": 0.8451025056947608,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18584406",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.2935500253936008,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4606399187404775,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2458100558659218
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25659940",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.3333333333333333,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.8096135721017907,
+        "Sadness": 0.19038642789820925,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23388730",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.21687429218573048,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3097395243488109,
+        "Sadness": 0.0,
+        "Surprise": 0.12400906002265007,
+        "Trust": 0.34937712344280863
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "23002432",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.5,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.25,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.177105184297273,
+        "Anticipation": 0.1567275996403956,
+        "Disgust": 0.0,
+        "Fear": 0.04225352112676056,
+        "Joy": 0.28888222954749776,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3350314653880731
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18809943",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.16900826446280992,
+        "Anticipation": 0.0,
+        "Disgust": 0.23223140495867772,
+        "Fear": 0.2776859504132232,
+        "Joy": 0.05619834710743802,
+        "Sadness": 0.26487603305785123,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 2.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "24223505",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.17907180385288965,
+        "Anticipation": 0.0,
+        "Disgust": 0.24605954465849386,
+        "Fear": 0.29422066549912435,
+        "Joy": 0.0,
+        "Sadness": 0.2806479859894921,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 3.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20710532",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.4,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.2
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.27439024390243905,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.380952380952381,
+        "Sadness": 0.0,
+        "Surprise": 0.05894308943089431,
+        "Trust": 0.2857142857142857
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25601814",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.19720965309200603,
+        "Disgust": 0.0,
+        "Fear": 0.05316742081447963,
+        "Joy": 0.363499245852187,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3861236802413273
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "29405105",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4470842332613391,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5529157667386609
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25017394",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "29414136",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.1548974943052392,
+        "Sadness": 0.0,
+        "Surprise": 0.8451025056947608,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "18002681",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.1111111111111111,
+        "Anticipation": 0.0,
+        "Disgust": 0.2222222222222222,
+        "Fear": 0.1111111111111111,
+        "Joy": 0.2222222222222222,
+        "Sadness": 0.1111111111111111,
+        "Surprise": 0.0,
+        "Trust": 0.2222222222222222
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.1889750215331611,
+        "Anticipation": 0.0,
+        "Disgust": 0.2220499569336779,
+        "Fear": 0.11576227390180881,
+        "Joy": 0.29681309216192936,
+        "Sadness": 0.1104220499569337,
+        "Surprise": 0.0,
+        "Trust": 0.06597760551248924
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "19180883",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.6666666666666666,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.3333333333333333,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.6016023306627822,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.39839766933721776,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22851306",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.6666666666666666
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.4470842332613391,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5529157667386609
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "26144414",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3333333333333333,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25313370473537605,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.30605849582172706,
+        "Sadness": 0.21761838440111422,
+        "Surprise": 0.0,
+        "Trust": 0.22318941504178275
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20647753",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.6006230529595015,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3993769470404984
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25234004",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.3333333333333333,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.38112391930835743,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.6188760806916427,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22009762",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5372848948374761,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.46271510516252384
+      },
+      "rating": 4,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22097156",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.3333333333333333,
+        "Trust": 0.3333333333333333
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.37449118046132973,
+        "Sadness": 0.0,
+        "Surprise": 0.3355947535052013,
+        "Trust": 0.28991406603346903
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "25223357",
+      "emo_lex_emotion_vector": {
+        "Anger": 1.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.49394294646346226,
+        "Anticipation": 0.2043767096522079,
+        "Disgust": 0.14028917545916372,
+        "Fear": 0.055099648300117224,
+        "Joy": 0.10629152012504885,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 4.0
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "21453120",
+      "emo_lex_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0,
+        "Anticipation": 0,
+        "Disgust": 0,
+        "Fear": 0,
+        "Joy": 0,
+        "Sadness": 0,
+        "Surprise": 0,
+        "Trust": 0
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "27269944",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.5,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.22601555747623164,
+        "Disgust": 0.0,
+        "Fear": 0.2878133102852204,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 0.320656871218669,
+        "Trust": 0.165514261019879
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "17976745",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.0,
+        "Surprise": 1.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.0,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.1548974943052392,
+        "Sadness": 0.0,
+        "Surprise": 0.8451025056947608,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "27856826",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.25,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.25
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.16094822208359327,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.45165315034310666,
+        "Sadness": 0.0,
+        "Surprise": 0.08047411104179664,
+        "Trust": 0.30692451653150343
+      },
+      "rating": 4,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "17876893",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.4,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.0,
+        "Sadness": 0.2,
+        "Surprise": 0.0,
+        "Trust": 0.4
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.3690131790421087,
+        "Disgust": 0.0,
+        "Fear": 0.022661523625843775,
+        "Joy": 0.11603985856637736,
+        "Sadness": 0.09546769527483123,
+        "Surprise": 0.05898424943747991,
+        "Trust": 0.3378334940533591
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "22914333",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.16666666666666666,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.3333333333333333,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.5
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.0,
+        "Anticipation": 0.09314456035767511,
+        "Disgust": 0.0,
+        "Fear": 0.0,
+        "Joy": 0.5322901142573274,
+        "Sadness": 0.0,
+        "Surprise": 0.0,
+        "Trust": 0.37456532538499754
+      },
+      "rating": 5,
+      "predicted_rating": null
+    },
+    {
+      "user_id": "68b59ed7b70645ab5ffbafd56ef6b232",
+      "book_id": "20821294",
+      "emo_lex_emotion_vector": {
+        "Anger": 0.25,
+        "Anticipation": 0.0,
+        "Disgust": 0.25,
+        "Fear": 0.25,
+        "Joy": 0.0,
+        "Sadness": 0.25,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "nrc_eil_emotion_vector": {
+        "Anger": 0.17907180385288965,
+        "Anticipation": 0.0,
+        "Disgust": 0.24605954465849386,
+        "Fear": 0.29422066549912435,
+        "Joy": 0.0,
+        "Sadness": 0.2806479859894921,
+        "Surprise": 0.0,
+        "Trust": 0.0
+      },
+      "rating": 5,
+      "predicted_rating": 5.0
+    }
+  ]
+}
