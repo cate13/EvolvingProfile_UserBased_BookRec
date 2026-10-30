@@ -1,0 +1,4 @@
+method_a,method_b,users_compared,average_shared_neighbors,average_overlap_fraction,users_with_all_3_neighbors_shared,percent_users_with_all_3_neighbors_shared,exact_order_matches,percent_exact_order_matches,average_rank_difference_shared_neighbors,average_spearman_rank_correlation,users_with_spearman_defined
+Books,EmoLex,170,0.576471,0.132941,4,2.3529,1,0.5882,0.70614,0.305556,18
+Books,NRC-EIL,170,0.558824,0.124706,1,0.5882,1,0.5882,0.793333,-0.052632,19
+EmoLex,NRC-EIL,170,1.364706,0.35,15,8.8235,4,2.3529,0.694656,0.203488,86
